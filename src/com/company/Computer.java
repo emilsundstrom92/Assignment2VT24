@@ -11,7 +11,7 @@ public class Computer extends Player{
 
     @Override
     public int move(){
-        int stickRemoval = 1;
+        int stickRemoval = 2;
         return stickRemoval;
     }
 
